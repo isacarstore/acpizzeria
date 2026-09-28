@@ -3,13 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Con Amor y Sabor | Pizzas & Pizzetas</title>
     <style>
-           body {
-            background-color: #121212;
-            color: #ffffff;
-            text-align: center;
-        }
-
-        /* Hero / Encabezado */
+    /* Hero / Encabezado */
         .hero {
             background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(18, 18, 18, 1)), url('https://i.postimg.cc/DzY0VgZv/Flayer.jpg') no-repeat center center/cover;
             padding: 60px 20px 40px;
