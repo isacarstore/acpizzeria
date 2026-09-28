@@ -3,15 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Con Amor y Sabor | Pizzas & Pizzetas</title>
     <style>
-        /* Estilos Generales */
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
-        body {
+           body {
             background-color: #121212;
             color: #ffffff;
             text-align: center;
