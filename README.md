@@ -1,9 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Con Amor y Sabor | Pizzas & Pizzetas</title>
     <style>
-    /* Hero / Encabezado */
+        /* Estilos Generales */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            text-align: center;
+        }
+
+        /* Hero / Encabezado */
         .hero {
             background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(18, 18, 18, 1)), url('https://i.postimg.cc/DzY0VgZv/Flayer.jpg') no-repeat center center/cover;
             padding: 60px 20px 40px;
